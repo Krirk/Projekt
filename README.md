@@ -1,2 +1,2 @@
-# Projekt
-C# Projekts
+# Kalkylator
+C# Slut Projekt
